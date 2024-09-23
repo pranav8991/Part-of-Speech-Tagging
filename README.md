@@ -70,6 +70,20 @@ Once your coding feats are complete, finalize your work by exporting the iPython
 3. **Submit**: Hit that submission button and await your reviewer’s accolades! 🎉
 
 ---
+## Reviewer’s Note ✨
+
+### 🎉 **Success!** 🎉
+
+A special note from my awesome Udacity reviewer:
+
+> **Greetings Student, Impressive work! Congratulations on meeting all the specifications for this project. 👏 The work shows a very good understanding of the underlying principles/concepts. Keep up this hard work and good luck with the next project. :udacious:
+>
+> ### 🎉 **Pro Tips!** 🎉
+> - Below are links to some material you might find interesting for more insights on the subject matter:
+> - https://medium.com/@brianray_7981/ai-in-practice-identifying-parts-of-speech-in-python-8a690c7a1a08
+> - https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb
+> - http://web.media.mit.edu/~havasi/MAS.S60/PNLP6.pdf
+> - https://link.springer.com/chapter/10.1007/978-3-642-40722-2_15
 
 ## How to Run This Masterpiece 🏗️
 
